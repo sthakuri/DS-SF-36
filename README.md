@@ -7,8 +7,8 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | Class | Date | Topic | Soft Deadline | Hard Deadline<br/>(by 6:30 PM) |
 |:---:|:---:|:---|:---|:---|
 | [01](./classes/01) | 6/21 | [What is Data Science](./classes/01) | | |
-| 02 | 6/26 | Python | | |
-| 03 | 6/28 | _pandas_ | | |
+| [02](./classes/02) | 6/26 | [Python](./classes/02) | | |
+| [03](./classes/03) | 6/28 | [`pandas`](./classes/03) | | |
 | 04 | 7/5 | Databases and Scrapping | | |
 | 05 | 7/10 | Exploratory Data Analysis | | |
 | 06 | 7/12 | _k_-Nearest Neighbors | **[Unit Project 1](./unit-project/1)** | |
@@ -37,7 +37,8 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 ## Office Hours
 
-- TBD
+- George: Tuesdays, 6 PM to 8 PM
+- Ivan: On demand; check sign-up sheet; usually just before class
 
 ## Slack
 
