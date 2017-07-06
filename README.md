@@ -9,7 +9,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | [01](./classes/01) | 6/21 | [What is Data Science](./classes/01) | | |
 | [02](./classes/02) | 6/26 | [Python](./classes/02) | | |
 | [03](./classes/03) | 6/28 | [`pandas`](./classes/03) | | |
-| 04 | 7/5 | Databases and Scrapping | | |
+| [04](./classes/04) | 7/5 | [Databases and Scrapping](./classes/04) | | |
 | 05 | 7/10 | Exploratory Data Analysis | | |
 | 06 | 7/12 | _k_-Nearest Neighbors | **[Unit Project 1](./unit-project/1)** | |
 | 07 | 7/17 | Applied Data Wrangling and Exploratory Data Analysis | | **[Unit Project 1](./unit-project/1)** |
