@@ -1,0 +1,9 @@
+name,animal,size,friendly
+Bo,snake,small,True
+Miles,dog,small,True
+Fifi,cat,small,False
+Muffy,cat,small,True
+Rufus,dog,large,True
+Jebediah,snail,small,True
+Aloysius,dog,large,False
+Tom,cat,large,False
