@@ -23,8 +23,8 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 15 | 8/14 | Intermediate Project Presentations | | **[Final Project 2](./final-project/2)** |
 | 16 | 8/16 | Review | | **[Unit Project 3](./unit-project/3)** |
 | 17 | 8/21 | Machine Learning Modeling Challenge, Take 2 | | |
-| 18 | 8/23 | Natural Language Processing | | |
-| 19 | 8/28 | Time Series | | |
+| [18](./classes/18) | 8/23 | [Natural Language Processing](./classes/18) | | |
+| [19](./classes/19) | 8/28 | [Time Series](./classes/19) | | |
 | 20 | 8/30 | Final Project Presentations and Wrap-Up | **[Final Project 3](./final-project/3)** | **[Final Project 3](./final-project/3)** |
 
 ## Your Team
